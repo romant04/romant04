@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓I am currently studying on University in Pardubice<br>💻I focus mainly on Web development, but I also like mobile and desktop development<br>📖I like to learn new things and get better in what I know. Recently I have started to learn Golang (and generally focusing more on the backend, then I used to)<br>🐱‍💻My most used tools are: React/Next.js, Svelte, Tailwind, Node.js (Express.js, Nest.js), C#, SQL and NoSql databases<br>🙌 My most notable project that I have made is Duelovky. It as gan web based on old website Duelovky.cz, where you could play flash games. The project is still in development. Now there are 3 games implemented with basic systems for platform like this (friends system, chat, ranking, matchmaking)
+🎓I am currently studying on University in Pardubice<br>💻I focus mainly on Web development, but I also like mobile and desktop development<br>📖I like to learn new things and get better in what I know. Recently I have started to learn Golang (and generally focusing more on the backend, then I used to)<br>🐱‍💻My most used tools are: React/Next.js, Svelte, Tailwind, Node.js (Express.js, Nest.js), C#, SQL and NoSql databases<br>🙌 My most notable project that I have made is Duelovky. It as a web, based on old website Duelovky.cz, where you could play flash games. The project is still in development. Now there are 3 games implemented with basic systems for platform like this (friends system, chat, ranking, matchmaking)
 
 # 💻 Tech Stack:
 
